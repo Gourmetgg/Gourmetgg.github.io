@@ -10,6 +10,7 @@ export const cv = {
   name: 'Ding Chen',
   education: { university: 'Shanghai University', period: '2023–2027' },
   github: 'https://github.com/Gourmetgg',
+  email: 'dingc3299@gmail.com',
   coursework: [
     { code: 'CS 61A', title: 'Structure and Interpretation of Computer Programs', institution: 'UC Berkeley', url: 'https://cs61a.org/' },
     { code: 'CS 61B', title: 'Data Structures', institution: 'UC Berkeley', url: 'https://www2.eecs.berkeley.edu/Courses/CS61B/' },
