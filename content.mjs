@@ -19,7 +19,7 @@ export const cv = {
     { code: 'NJU PA', title: 'Introduction to Computer Systems — Programming Assignments', institution: 'Nanjing University', url: 'https://nju-projectn.github.io/ics-pa-gitbook/' },
     { code: '15-213', title: 'Introduction to Computer Systems', institution: 'Carnegie Mellon University', url: 'https://www.cs.cmu.edu/~213/' },
     { code: '15-445', title: 'Introduction to Database Systems', institution: 'Carnegie Mellon University', url: 'https://15445.courses.cs.cmu.edu/' },
-    { code: 'NJU Compiler', title: 'Principles and Techniques of Compilers', institution: 'Nanjing University', url: 'https://cs.nju.edu.cn/changxu/2_compiler/index.html' },
+    { code: 'NJU Compiler', title: 'Principles and Techniques of Compilers', institution: 'Nanjing University', url: 'http://docs.compilers.cpl.icu/#/' },
     { code: 'CS 149', title: 'Parallel Computing', institution: 'Stanford University', url: 'https://cs149.stanford.edu/' },
     { code: '11-785', title: 'Introduction to Deep Learning', institution: 'Carnegie Mellon University', url: 'https://deeplearning.cs.cmu.edu/' },
     { code: '10-414', title: 'Deep Learning Systems', institution: 'Carnegie Mellon University', url: 'https://dlsyscourse.org/' },
