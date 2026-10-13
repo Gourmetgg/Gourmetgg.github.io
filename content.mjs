@@ -1,5 +1,5 @@
 export const site = {
-  name: 'margin',
+  name: 'Gourmetgg',
   description: 'Ding Chen’s personal blog and curriculum vitae.',
   origin: 'https://gourmetgg.github.io',
 };

@@ -1,4 +1,4 @@
-# margin
+# Gourmetgg
 
 A minimal English personal blog: cream paper, monospaced type, red links, and a narrow reading column. Live at https://gourmetgg.github.io/.
 
