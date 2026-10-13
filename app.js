@@ -1,5 +1,5 @@
 const storageKey = 'margin-favorites';
-const initialFavorites = ['small-programs', 'attention', 'learning-in-public'];
+const initialFavorites = [];
 let favorites;
 function loadFavorites() {
   try {
@@ -51,7 +51,7 @@ function filterPosts(filter, animate = true) {
 
 function currentFilter() {
   const value = new URLSearchParams(location.search).get('filter');
-  return filterButtons.some(button => button.dataset.filter === value) ? value : '26';
+  return filterButtons.some(button => button.dataset.filter === value) ? value : (filterButtons[0]?.dataset.filter || 'all');
 }
 if (filterButtons.length) {
   filterPosts(currentFilter(), false);
