@@ -18,3 +18,7 @@ Inconsolata is self-hosted under the SIL Open Font License in `assets/OFL.txt`. 
 ## Previous site
 
 The former Hexo site is retained in Git history at commit `96c683e64cbf193448aa2829d6cd9fd3027d7105`. The replacement commit preserves that parent and can be reverted to restore the old site.
+
+## Private writing room
+
+The footer's `write (private)` link opens https://gourmetgg-writing-room.mightytang.chatgpt.site. It requires the owner's ChatGPT sign-in. Private drafts are stored in its own database, separate from this public GitHub repository. The editor includes automatic saving, word goals and Markdown export. Send an exported Markdown file to Codex when ready to publish an article here.
